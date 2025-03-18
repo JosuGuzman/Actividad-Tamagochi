@@ -67,8 +67,3 @@ Para desplegar el proyecto, sigue los siguientes pasos:
          ``` bash
          dotnet test
          ```
-
-5. **Acceder a la aplicación**:
-     - Una vez que el proyecto esté en ejecución, podrás acceder a la aplicación a través de tu navegador en la dirección que se indique en la terminal (generalmente `http://localhost:5000` o similar).
-
-En la carpeta `src` encontrarás el código fuente del proyecto. En la carpeta `scripts sql` encontrarás los scripts SQL utilizados para la creación y manipulación de la base de datos.
