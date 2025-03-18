@@ -1,3 +1,4 @@
+using Tamagochi.Core.Persitencia;
 namespace Tamagochi.Core;
 
 public class MascotaVirtual
@@ -5,9 +6,9 @@ public class MascotaVirtual
     private IEstadoMascota estadoActual;
     public int Felicidad => estadoActual.ObtenerFelicidad();
 
-    public Mascota()
+    public MascotaVirtual()
     {
-        estadoActual = new Aburrida();
+        estadoActual = new Aburrido();
     }
 
     public void CambiarEstado(IEstadoMascota nuevoEstado)

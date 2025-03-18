@@ -1,0 +1,12 @@
+c:\Users\Lab15-PC01\Documents\GitHub\Actividad-Tamagochi02\Src\Tamagochi.Core\bin\Debug\net9.0\Tamagochi.Core.deps.json
+c:\Users\Lab15-PC01\Documents\GitHub\Actividad-Tamagochi02\Src\Tamagochi.Core\bin\Debug\net9.0\Tamagochi.Core.dll
+c:\Users\Lab15-PC01\Documents\GitHub\Actividad-Tamagochi02\Src\Tamagochi.Core\bin\Debug\net9.0\Tamagochi.Core.pdb
+c:\Users\Lab15-PC01\Documents\GitHub\Actividad-Tamagochi02\Src\Tamagochi.Core\obj\Debug\net9.0\Tamagochi.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lab15-PC01\Documents\GitHub\Actividad-Tamagochi02\Src\Tamagochi.Core\obj\Debug\net9.0\Tamagochi.Core.AssemblyInfoInputs.cache
+c:\Users\Lab15-PC01\Documents\GitHub\Actividad-Tamagochi02\Src\Tamagochi.Core\obj\Debug\net9.0\Tamagochi.Core.AssemblyInfo.cs
+c:\Users\Lab15-PC01\Documents\GitHub\Actividad-Tamagochi02\Src\Tamagochi.Core\obj\Debug\net9.0\Tamagochi.Core.csproj.CoreCompileInputs.cache
+c:\Users\Lab15-PC01\Documents\GitHub\Actividad-Tamagochi02\Src\Tamagochi.Core\obj\Debug\net9.0\Tamagochi.Core.sourcelink.json
+c:\Users\Lab15-PC01\Documents\GitHub\Actividad-Tamagochi02\Src\Tamagochi.Core\obj\Debug\net9.0\Tamagochi.Core.dll
+c:\Users\Lab15-PC01\Documents\GitHub\Actividad-Tamagochi02\Src\Tamagochi.Core\obj\Debug\net9.0\refint\Tamagochi.Core.dll
+c:\Users\Lab15-PC01\Documents\GitHub\Actividad-Tamagochi02\Src\Tamagochi.Core\obj\Debug\net9.0\Tamagochi.Core.pdb
+c:\Users\Lab15-PC01\Documents\GitHub\Actividad-Tamagochi02\Src\Tamagochi.Core\obj\Debug\net9.0\ref\Tamagochi.Core.dll

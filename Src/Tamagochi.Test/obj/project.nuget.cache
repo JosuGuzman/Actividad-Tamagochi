@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3ByLBQFcEYA=",
+  "dgSpecHash": "t8zyvd8vnVk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\Actividad-Tamagochi02\\Tamagochi.Test\\Tamagochi.Test.csproj",
+  "projectFilePath": "c:\\Users\\Lab15-PC01\\Documents\\GitHub\\Actividad-Tamagochi02\\Src\\Tamagochi.Test\\Tamagochi.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lab15-PC01\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Lab15-PC01\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

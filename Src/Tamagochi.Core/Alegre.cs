@@ -1,22 +1,24 @@
+using Tamagochi.Core.Persitencia;
+
 namespace Tamagochi.Core;
 
 public class Alegre : IEstadoMascota
 {
-    private int vecesJugadas;
+    private int vecesJugadas = 0;
 
     public int Felicidad { get; private set; }
 
-    public Alegre (int felicidadInicial)
+    public Alegre (int felicidadInicial = 0)
     {
         Felicidad = felicidadInicial;
     }
 
-    public void Comer(Mascota mascota)
+    public void Comer(MascotaVirtual mascota)
     {
         Felicidad++;
     }
 
-    public void Jugar(Mascota mascota)
+    public void Jugar(MascotaVirtual mascota)
     {
         Felicidad += 2;
         vecesJugadas++;
@@ -30,4 +32,5 @@ public class Alegre : IEstadoMascota
     public bool PuedeJugar() => true;
 
     public int ObtenerFelicidad() => Felicidad;
+
 }
